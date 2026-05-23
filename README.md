@@ -38,6 +38,24 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 <img width="558" height="162" alt="image" src="https://github.com/user-attachments/assets/863dbdd2-254c-4165-b167-3bdbb331efc7" />
 
 
+
+**Design**
+
+
+<img width="732" height="327" alt="image" src="https://github.com/user-attachments/assets/5ee28470-864c-4433-80c5-880f3cf09aba" />
+
+<img width="762" height="348" alt="image" src="https://github.com/user-attachments/assets/d4806f51-79d0-435a-b7e0-bcc056fcce78" />
+
+
+<img width="863" height="412" alt="image" src="https://github.com/user-attachments/assets/2432011a-a4f7-4671-9f2a-7723787ee70e" />
+
+
+
+**Output**
+
+
+<img width="801" height="407" alt="image" src="https://github.com/user-attachments/assets/22d1c084-98ad-4363-a758-fead927f1669" />
+
 **Conclusion:**
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
